@@ -14,19 +14,16 @@ Author URI: http://worthyontheweb.co.uk
 
 function hello_worthy_get_quote() {
 	/** These are the lyrics to I love your smile and some random quotes*/
-	$lyrics = "Hello, Worthy,
-	Be ready to evolve,
-	Always work as a team,
-	Improvement is necessary,
-	Ask the dumb question,
-	Don't underestimate the power of design skills,
-	Work closely with your customers,
-	Go beyond just writing code,
-	Pay close attention to the architecture,
-	Consider accessibility,
-	A cup of tea makes everything better,
-	Smile and the whole world smiles with you,
-	Why fit in when you were born to stand out - Dr Seuss,";
+	$lyrics = "DO NOT INSTALL ELEMENTOR PLUGIN
+	DO NOT INSTALL ANY PERFORMANCE/CACHE PLUGINS
+	Install Wordfence Security plugin to protect your website
+	Ninja Forms is a great plugin for contact pages
+	Keep your workflow organised
+	Don't overcomplicate it
+	Don't install more than the neccessary plugins, get the functionality down first
+	Back up your website frequently. Use WPvivid Backup plugin
+	Make sure all of your plugins are frequently updated
+	Make sure any images you use aren't too high quality so they are easy to load";
 
 	// Here we split it into lines
 	$lyrics = explode( "\n", $lyrics );
